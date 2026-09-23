@@ -113,7 +113,7 @@ export default function JarvisOrb() {
       <div className="overlay-grain" />
       <div className="overlay-scanlines" />
 
-      <div className="hud hud-title">U.L.T.R.O.N.</div>
+      <div className="hud hud-title">A.K.S.H.A.R.A AI</div>
 
       <div className="hud hud-hint">
         <div>
